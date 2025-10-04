@@ -8,6 +8,11 @@
   align-items: center;
   height: calc(100vh - 4.8rem);
 }
+.user {
+  margin-top: 0.5rem;
+  margin-left: 10rem;
+  margin-bottom: 3rem;
+}
 
 .footer {
   margin-top: auto;

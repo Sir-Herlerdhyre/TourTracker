@@ -17,7 +17,9 @@ function PageNav() {
 
   return (
     <nav className={styles.nav}>
-      <Logo closeToggle={closeToggle} />
+      <div className={styles.logo}>
+        <Logo closeToggle={closeToggle} />
+      </div>
       <ul
         className={
           isOpen ? `${styles.navbarmenu} ${styles.active}` : styles.navbarmenu

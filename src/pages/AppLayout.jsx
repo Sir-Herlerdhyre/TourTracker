@@ -12,9 +12,9 @@ function AppLayout() {
       <div className={styles.map}>
         <Map />
       </div>
-      <div className={styles.user}>
+      {/* <div className={styles.user}>
         <User />
-      </div>
+      </div> */}
     </div>
   );
 }

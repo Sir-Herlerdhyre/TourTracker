@@ -2,10 +2,14 @@ import { Outlet } from "react-router-dom";
 import AppNav from "./AppNav";
 import Logo from "./Logo";
 import styles from "./Sidebar.module.css";
+import User from "./User";
 
 function Sidebar() {
   return (
     <div className={styles.sidebar}>
+      <div className={styles.user}>
+        <User />
+      </div>
       <Logo />
       <AppNav />
       <Outlet />

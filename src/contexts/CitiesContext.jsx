@@ -1,6 +1,6 @@
 import { createContext, useCallback, useEffect, useReducer } from "react";
 
-const BASE_URL = "https://68e1093d93207c4b47960f61.mockapi.io";
+const BASE_URL = import.meta.env.VITE_BASE_URL;
 
 const CitiesContext = createContext();
 

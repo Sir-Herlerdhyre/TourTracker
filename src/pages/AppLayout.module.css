@@ -1,0 +1,26 @@
+.app {
+  height: 100vh;
+  padding: 2.4rem;
+  overscroll-behavior-y: none;
+  display: flex;
+  flex-direction: column; /* stack vertically */
+  position: relative;
+}
+
+/* Sidebar and Map each take 50% of vertical height */
+.sidebar {
+  flex: 1;
+  overflow-y: auto; /* allows scrolling inside if content is long */
+}
+
+.map {
+  flex: 1;
+  overflow: hidden;
+}
+
+.user {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  z-index: 10;
+}

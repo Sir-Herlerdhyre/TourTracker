@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import { CitiesProvider } from "./contexts/CitiesContext";
 import { AuthProvider } from "./contexts/fakeAuthContext";
-import ProtectedRoute from "./pages/protectedRoute";
+import ProtectedRoute from "./pages/ProtectedRoute";
 
 // import Product from "./pages/Product";
 // import Pricing from "./pages/Pricing";

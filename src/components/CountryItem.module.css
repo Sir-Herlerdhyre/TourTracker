@@ -17,3 +17,13 @@
   font-size: 3rem;
   line-height: 1;
 }
+
+@media (max-width: 1000px) {
+  .countryItem {
+    font-size: 1.5rem;
+  }
+  .countryItem span:first-child {
+    font-size: 1.5rem;
+    line-height: 0.5;
+  }
+}

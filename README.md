@@ -1,6 +1,6 @@
-# 🗺️ WorldWise – React Travel Tracker
+# 🗺️ TourTracker – React Travel Tracker
 
-**WorldWise** is a modern React web app that allows users to log, view, and organize the cities and countries they’ve visited across the world 🌍.  
+**TourTracker** is a modern React web app that allows users to log, view, and organize the cities and countries they’ve visited across the world 🌍.  
 It features authentication, protected routes, dynamic routing, and real-time data handling — making it a perfect showcase of your advanced React skills.
 
 ---
@@ -61,10 +61,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/yourusername/worldwise-travel-tracker.git
+git clone https://github.com/yourusername/TourTracker-travel-tracker.git
 
 # 2️⃣ Navigate into the project folder
-cd worldwise-travel-tracker
+cd TourTracker-travel-tracker
 
 # 3️⃣ Install dependencies
 npm install

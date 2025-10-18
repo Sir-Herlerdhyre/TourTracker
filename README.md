@@ -70,10 +70,10 @@ cd TourTracker-travel-tracker
 npm install
 
 # 4️⃣ Start the development server
-npm start
+npm run dev
 ````
 
-App will run on **[http://localhost:3000/](http://localhost:3000/)** 🚀
+
 
 
 ## 🔐 Authentication Flow

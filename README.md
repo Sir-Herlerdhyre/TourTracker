@@ -102,13 +102,6 @@ npm run dev
 
 ---
 
-## 🧩 Future Enhancements
-
-* 🔑 Replace fakeAuth with real JWT authentication
-* 🌎 Integrate with a map library (like Leaflet or Mapbox)
-* 💾 Connect to Firebase or Supabase for persistent storage
-* 📱 Add mobile-friendly navigation drawer
-* 🎨 Improve UI with Tailwind CSS or Material UI
 
 ---
 
@@ -121,10 +114,4 @@ Frontend Developer | React Enthusiast | Continuous Learner
 > *"Mapping memories, one city at a time."* 🌍
 
 ---
-
-## 📜 License
-
-This project is released under the **MIT License**.
-
-```
 
